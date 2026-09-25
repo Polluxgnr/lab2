@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Pollux/Downloads/lab 2/mlruns/1/models/m-ad81c3e4ef7d4a03aaf3962dbd990544/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.16.1
+model_id: m-ad81c3e4ef7d4a03aaf3962dbd990544
+model_size_bytes: 928128
+model_uuid: m-ad81c3e4ef7d4a03aaf3962dbd990544
+prompts: null
+run_id: a0ba7259e3a0421b86131c1887512ed5
+utc_time_created: '2026-09-25 08:10:26.695626'
