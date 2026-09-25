@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project implements the complete machine learning lifecycle for predicting plant-level annual crude steel production (`production` in ttpa) using the Global Energy Monitor (GEM) Global Iron and Steel Tracker (GIST) June 2026 dataset.
 
@@ -40,7 +40,7 @@ This project implements the complete machine learning lifecycle for predicting p
 
 ---
 
-## 📊 Benchmark Results
+## Benchmark Results
 
 | Model | 5-Fold CV RMSE (ttpa) | 5-Fold CV MAE (ttpa) | 5-Fold CV $R^2$ | Test RMSE (ttpa) | Test MAE (ttpa) | Test $R^2$ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
