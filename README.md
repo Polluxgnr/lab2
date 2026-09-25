@@ -1,8 +1,5 @@
 # Lab 2: Modelling & Model Lifecycle — Predicting Plant Production (GIST Steel Dataset)
-
-**Group / Repo Name:** `aidams-lab2-viard-gronier-beghin`  
-**Repo URL:** `https://github.com/Polluxgnr/lab2`  
-**Submitter:** Pollux Gronier (B00822392)  
+  
 **Group Members:**
 1. Saty Viard (Student ID: B00822312)
 2. Pollux Gronier (Student ID: B00822392)
@@ -59,33 +56,7 @@ This project implements the complete machine learning lifecycle for predicting p
 
 ---
 
-## 📦 Requirements & Environment
-
-Python 3.11+ is recommended. Install required packages with:
-
-```bash
-pip install pandas polars fastexcel pandera scikit-learn skrub mlflow optuna optuna-integration joblib matplotlib seaborn openpyxl
-```
-
----
-
-## 🚀 How to Run the Notebook
-
-### Option 1: Jupyter Lab / Notebook Interface
-Open Jupyter and run all cells:
-```bash
-jupyter lab lab_2.ipynb
-```
-
-### Option 2: Headless Execution via nbconvert
-To re-run the entire notebook from start to finish and update all cell outputs in-place:
-```bash
-python -m nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 lab_2.ipynb
-```
-
----
-
-## 📂 Repository Contents
+##  Repository table of Contents
 
 ```
 .
